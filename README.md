@@ -4,7 +4,7 @@
 
 - Implementación de un CRUD completo (Crear, Leer, Actualizar, Eliminar) usando **Java Web**, **Jakarta EE**, **Servlets**, **JSP**, **JSTL** y el patrón **MVC**, conectado a una base de datos **MySQL**.
 
-## Tecnologías
+## Tecnologías a Instalar
 - Java 17
 - Jakarta EE 9
 - Servlets 5.0
