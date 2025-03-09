@@ -1,0 +1,6 @@
+Êþº¾   3 
+      java/lang/Object <init> ()V
+  	 
+   com/iti/ec/config/Conexion getConnection ()Ljava/sql/Connection;  com/edu/pe/config/Test Code LineNumberTable LocalVariableTable this Lcom/iti/ec/config/Test; main ([Ljava/lang/String;)V args [Ljava/lang/String; 
+SourceFile 	Test.java !               /     *· ±                        	       3     ¸ W±       
+                        

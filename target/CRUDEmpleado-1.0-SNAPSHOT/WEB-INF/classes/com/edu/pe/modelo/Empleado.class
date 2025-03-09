@@ -1,0 +1,11 @@
+Êþº¾   3 2
+      java/lang/Object <init> ()V	  	 
+   com/iti/ec/modelo/Empleado id I	     nombres Ljava/lang/String;	     	apellidos	     fechaIngreso	     sueldo D Code LineNumberTable LocalVariableTable this Lcom/edu/pe/modelo/Empleado; getId ()I setId (I)V 
+getNombres ()Ljava/lang/String; 
+setNombres (Ljava/lang/String;)V getApellidos setApellidos getFechaIngreso setFechaIngreso 	getSueldo ()D 	setSueldo (D)V 
+SourceFile Empleado.java !                                       /     *· ±                           !     /     *´ ¬                         " #     >     *µ ±       
+                          $ %     /     *´ °                         & '     >     *+µ ±       
+                          ( %     /     *´ °                         ) '     >     *+µ ±       
+                           * %     /     *´ °           #              + '     >     *+µ ±       
+    '  (                    , -     /     *´ ¯           +              . /     >     *'µ ±       
+    /  0                    0    1
