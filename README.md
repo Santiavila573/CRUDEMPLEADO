@@ -1,8 +1,8 @@
-
 # CRUD Web App (Java + MVC)
+<img src="https://github.com/user-attachments/assets/d330cc3e-da1e-48eb-9e17-4498d7bfd581" width="500">
 
 
-Implementación de un CRUD completo (Crear, Leer, Actualizar, Eliminar) usando **Java Web**, **Jakarta EE**, **Servlets**, **JSP**, **JSTL** y el patrón **MVC**, conectado a una base de datos **MySQL**.
+- Implementación de un CRUD completo (Crear, Leer, Actualizar, Eliminar) usando **Java Web**, **Jakarta EE**, **Servlets**, **JSP**, **JSTL** y el patrón **MVC**, conectado a una base de datos **MySQL**.
 
 ## Tecnologías
 - Java 17
